@@ -1,7 +1,7 @@
 # Taxi Service 
 ![images (1)](https://user-images.githubusercontent.com/94574503/161727692-24f3913f-2d2b-45cc-a5a1-8840d3e5e3ab.png)
 ## Description
-This project is a simple Web application, that imitates basic functions of taxi service. It supports user registration; authenticatio; CRUD operations to work with data base. App is based on N-tier architecture (DAO, Service and Controller tiers).
+This project is a simple Web application, that imitates basic functions of taxi service. It supports user registration, authentication and CRUD operations to work with data base. App is based on N-tier architecture (DAO, Service and Controller tiers).
 ## Functions:
 * Register a new user (add a new driver to DB);
 * Add a new car to DB;
