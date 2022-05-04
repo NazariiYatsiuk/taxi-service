@@ -15,7 +15,7 @@ This project is a simple Web application, that imitates basic functions of taxi 
 * Delete specific manufacturer from DB (implemented soft delete);
 * Delete specific driver from DB (implemented soft delete);
 ## Used technologies:
-* Java 17;
+* Java 11;
 * MySQL _v8.0_;
 * JDBC;
 * Apache Maven;
